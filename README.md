@@ -18,13 +18,13 @@ I’m a passionate **Data Science enthusiast** with a strong academic foundation
 
 ## 🧠 Technical Expertise
 
-### Languages: Python, SQL
+- **Languages:** Python, SQL
 
-### Machine Learning & Deep Learning: Proficient with Scikit-Learn, TensorFlow, Keras and deep learning architectures (NN, CNN, RNN, LSTM)
+- **Machine Learning & Deep Learning:** Proficient with Scikit-Learn, TensorFlow, Keras and deep learning architectures (NN, CNN, RNN, LSTM)
 
-### Data Analysis & Visualization: Pandas, Numpy, Seaborn, Matplotlib, Tableau
+- **Data Analysis & Visualization:** Pandas, Numpy, Seaborn, Matplotlib, Tableau
 
-### Concepts: Supervised/Unsupervised Learning, EDA, Feature Engineering, Statistical Inference, Model Evaluation
+- **Concepts:** Supervised/Unsupervised Learning, EDA, Feature Engineering, Statistical Inference, Model Evaluation
 
 ---
 
