@@ -71,7 +71,7 @@ I'm open to **entry-level roles, collaborations, and internships** in Data Scien
 
 📬 Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/biplabini-padhi)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/biplabini)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Biplabini-1992/BiplabiniPadhi/edit/main/README.md)
 
 ---
 
