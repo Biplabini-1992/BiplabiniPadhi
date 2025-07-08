@@ -12,7 +12,7 @@
 
 I’m a passionate **Data Science enthusiast** with a strong academic foundation—an **MS in Computer Science (AI & ML)** and an **MSc in Mathematics (Gold Medallist)**. My expertise lies in transforming data into actionable insights through **statistics**, **machine learning**, and **analytical storytelling**.
 
-💡 I enjoy building intelligent solutions for real-world problems and thrive in cross-functional environments. I’m currently looking for **entry-level opportunities** in data science, analytics, or machine learning roles.
+💡With a keen interest in leveraging data for impactful decisions, I’m actively seeking opportunities in Data science, Analytics or ML domains. I bring a proactive attitude, strong problem-solving abilities, and a commitment to continuous learning.
 
 ---
 
