@@ -12,7 +12,7 @@
 
 I’m a passionate **Data Science enthusiast** with a strong academic foundation—an **MS in Computer Science (AI & ML)** and an **MSc in Mathematics (Gold Medallist)**. My expertise lies in transforming data into actionable insights through **statistics**, **machine learning**, and **analytical storytelling**.
 
-💡With a keen interest in leveraging data for impactful decisions, I’m actively seeking opportunities in Data science, Analytics or ML domains. I bring a proactive attitude, strong problem-solving abilities, and a commitment to continuous learning.
+💡With a keen interest in leveraging data for impactful decisions, I’m actively seeking opportunities in Data science or ML domains. I bring a proactive attitude, strong problem-solving abilities, and a commitment to continuous learning.
 
 ---
 
@@ -67,7 +67,7 @@ I’m a passionate **Data Science enthusiast** with a strong academic foundation
 
 ## 📌 Let’s Connect!
 
-I'm open to **entry-level roles, collaborations, and internships** in Data Science or ML.
+I'm open to **oppertunitiess, collaborations, and internships** in Data Science or ML.
 
 📬 Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/biplabini-padhi)  
