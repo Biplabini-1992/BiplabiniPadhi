@@ -69,22 +69,15 @@ I’m a passionate **Data Science enthusiast** with a strong academic foundation
 
 ---
 
-## 🏆 Noteworthy Highlights
-
-- 👩‍🏫 Mentored a finalist team at **Smart India Hackathon 2023**
-- 🧪 Research on **Skin Disease Classification** and **Sign Language Recognition**
-- 🎓 MSc Mathematics (Gold Medallist), MS in CS (AI & ML)
-
----
-
 ## 📌 Let’s Connect!
 
 I'm open to **entry-level roles, collaborations, and internships** in Data Science or ML.
 
 📬 Connect with me:  
-[![LinkedIn](https://www.linkedin.com/in/biplabini-padhi-23847a20a/)  
-[![GitHub](https://github.com/Biplabini-1992/BiplabiniPadhi/edit/main/README.md)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/biplabini-padhi)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/biplabini)
 
 ---
 
 ✨ _Let’s innovate, analyze, and build impactful solutions together!_ 🌍🚀
+
