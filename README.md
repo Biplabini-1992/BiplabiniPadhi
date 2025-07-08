@@ -82,8 +82,8 @@ I’m a passionate **Data Science enthusiast** with a strong academic foundation
 I'm open to **entry-level roles, collaborations, and internships** in Data Science or ML.
 
 📬 Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/biplabini-padhi)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/biplabini)
+[![LinkedIn](https://www.linkedin.com/in/biplabini-padhi-23847a20a/)  
+[![GitHub](https://github.com/Biplabini-1992/BiplabiniPadhi/edit/main/README.md)
 
 ---
 
