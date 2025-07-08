@@ -73,7 +73,7 @@ I'm open to **oppertunitiess, collaborations, and internships** in Data Science 
 - 📧 **Email:** [biplabini.padhi@gmail.com](mailto:biplabini.padhi@gmail.com)  
 - 🔗 **LinkedIn:** [linkedin.com/in/biplabini-padhi](https://www.linkedin.com/in/biplabini-padhi)  
 - 🐙 **GitHub:** [github.com/Biplabini-1992](https://github.com/Biplabini-1992)  
-- 📊 **Tableau Portfolio:** [public.tableau.com/profile/biplabini.padhi](https://public.tableau.com/app/profile/biplabini.padhi/vizzes)
+- 📊 **Tableau:** [public.tableau.com/profile/biplabini.padhi](https://public.tableau.com/app/profile/biplabini.padhi/vizzes)
 
 
 ---
