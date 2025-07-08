@@ -70,8 +70,10 @@ I’m a passionate **Data Science enthusiast** with a strong academic foundation
 I'm open to **oppertunitiess, collaborations, and internships** in Data Science or ML.
 
 📬 Connect with me:  
+📧 Email: [biplabini.padhi@gmail.com](mailto:biplabini.padhi@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/biplabini-padhi)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Biplabini-1992/BiplabiniPadhi)
+[Tableau Public Portfolio](https://public.tableau.com/app/profile/biplabini.padhi/vizzes)
 
 ---
 
