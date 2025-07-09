@@ -30,7 +30,7 @@ I’m a passionate **Data Science enthusiast** with a strong academic foundation
 
 ## 🚀 Featured Projects
 
-- 🔍 **[Scaler_Clustering](https://github.com/biplabini/Scaler_Clustering)**  
+- 🔍 **[Scaler_Clustering](https://github.com/Biplabini-1992/Scaler_Clustering)**  
   Unsupervised clustering project on Scaler's data to identify company and job role profiles.
 
 - 📈 **[OLA-Ensemble-Learning](https://github.com/biplabini/OLA-Ensemble-Learning)**  
