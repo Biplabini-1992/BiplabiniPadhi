@@ -33,7 +33,7 @@ I’m a passionate **Data Science enthusiast** with a strong academic foundation
 - 🔍 **[Scaler_Clustering](https://github.com/Biplabini-1992/Scaler_Clustering)**  
   Unsupervised clustering project on Scaler's data to identify company and job role profiles.
 
-- 📈 **[OLA-Ensemble-Learning](https://github.com/biplabini/OLA-Ensemble-Learning)**  
+- 📈 **[OLA-Ensemble-Learning](https://github.com/Biplabini-1992/OLA-Ensemble-Learning)**  
   Developed an ensemble model using decision trees, random forests, and boosting for ride-hailing data.
 
 - 🧠 **[Porter-Neural_Network_Regression](https://github.com/biplabini/Porter-Neural_Network_Regression)**  
