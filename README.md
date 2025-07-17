@@ -41,6 +41,9 @@ I’m a passionate **Data Science enthusiast** with a strong academic foundation
 
 - 📈 **[OLA-Ensemble-Learning](https://github.com/Biplabini-1992/OLA-Ensemble-Learning)**  
   Developed an ensemble model using decision trees, random forests, and boosting for ride-hailing data.
+  
+- **[LoanTap-Logistic_Regression](https://github.com/Biplabini-1992/LoanTap-Logistic_Regression)**
+  
 
 - 📊 **[JamboreeEducation-Linear_Regression](https://github.com/biplabini/JamboreeEducation-Linear_Regression)**  
   Simple linear regression for predicting education scores based on historical performance.
