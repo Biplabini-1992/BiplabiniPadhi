@@ -33,7 +33,7 @@ I’m a passionate **Data Science enthusiast** with a strong academic foundation
 - 🧠 **[Porter-Neural_Network_Regression](https://github.com/Biplabini-1992/Porter-Neural_Network_Regression)**  
   Built and trained a neural network model to predict delivery time regression metrics.
   
-- 🎯 **[Zee_Recommender_Systems](https://github.com/biplabini/Zee_Recommender_Systems)**  
+- 🎯 **[Zee_Recommender_Systems](https://github.com/Biplabini-1992/Zee_Recommender_Systems)**  
   Collaborative filtering and content-based recommender system for entertainment content.
 
 - 🔍 **[Scaler_Clustering](https://github.com/Biplabini-1992/Scaler_Clustering)**  
