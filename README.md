@@ -39,10 +39,10 @@ I’m a passionate **Data Science enthusiast** with a strong academic foundation
 - 🔍 **[Scaler_Clustering](https://github.com/Biplabini-1992/Scaler_Clustering)**  
   Performed unsupervised clustering on Scaler's job and company data to uncover high-potential roles and organizations for learners.
 
-- 📈 **[OLA-Ensemble-Learning](https://github.com/Biplabini-1992/OLA-Ensemble-Learning)**
+- 📈 **[OLA-Ensemble-Learning](https://github.com/Biplabini-1992/OLA-Ensemble-Learning)**  
   Designed an ensemble framework combining decision trees, random forests, and gradient boosting to analyze ride-hailing data and improve prediction accuracy.
   
-- 📉 **[LoanTap-Logistic_Regression](https://github.com/Biplabini-1992/LoanTap-Logistic_Regression)**
+- 📉 **[LoanTap-Logistic_Regression](https://github.com/Biplabini-1992/LoanTap-Logistic_Regression)**  
   Implemented a logistic regression model to assess customer eligibility and predict loan approval likelihood based on financial behavior.
 
 - 📊 **[JamboreeEducation-Linear_Regression](https://github.com/Biplabini-1992/JamboreeEducation-Linear_Regression)**  
