@@ -45,7 +45,7 @@ I’m a passionate **Data Science enthusiast** with a strong academic foundation
 - 📉 **[LoanTap-Logistic_Regression](https://github.com/Biplabini-1992/LoanTap-Logistic_Regression)**
   Implemented a logistic regression model to assess customer eligibility and predict loan approval likelihood based on financial behavior.
 
-- 📊 **[JamboreeEducation-Linear_Regression](https://github.com/biplabini/JamboreeEducation-Linear_Regression)**  
+- 📊 **[JamboreeEducation-Linear_Regression](https://github.com/Biplabini-1992/JamboreeEducation-Linear_Regression)**  
   Applied simple linear regression to predict education scores from historical performance data, aiding academic performance forecasting.
 
 - 🧮 **[Delhivery-Feature-Engineering](https://github.com/biplabini/Delhivery-Feature-Engineering)**  
