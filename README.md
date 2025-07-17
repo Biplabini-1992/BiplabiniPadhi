@@ -31,22 +31,22 @@ I’m a passionate **Data Science enthusiast** with a strong academic foundation
 ## 🚀 Featured Projects
 
 - 🧠 **[Porter-Neural_Network_Regression](https://github.com/Biplabini-1992/Porter-Neural_Network_Regression)**  
-  Built and trained a neural network model to predict delivery time regression metrics.
+  Developed and trained a neural network model to predict delivery time using regression metrics, achieving accurate forecasts through deep learning techniques..
   
 - 🎯 **[Zee_Recommender_Systems](https://github.com/Biplabini-1992/Zee_Recommender_Systems)**  
-  Collaborative filtering and content-based recommender system for entertainment content.
+  Built collaborative filtering and content-based recommender systems to personalize entertainment content recommendations for users.
 
 - 🔍 **[Scaler_Clustering](https://github.com/Biplabini-1992/Scaler_Clustering)**  
-  Unsupervised clustering project on Scaler's data to identify company and job role profiles.
+  Performed unsupervised clustering on Scaler's job and company data to uncover high-potential roles and organizations for learners.
 
-- 📈 **[OLA-Ensemble-Learning](https://github.com/Biplabini-1992/OLA-Ensemble-Learning)**  
-  Developed an ensemble model using decision trees, random forests, and boosting for ride-hailing data.
+- 📈 **[OLA-Ensemble-Learning](https://github.com/Biplabini-1992/OLA-Ensemble-Learning)**
+  Designed an ensemble framework combining decision trees, random forests, and gradient boosting to analyze ride-hailing data and improve prediction accuracy.
   
-- **[LoanTap-Logistic_Regression](https://github.com/Biplabini-1992/LoanTap-Logistic_Regression)**
-  
+- 📉 **[LoanTap-Logistic_Regression](https://github.com/Biplabini-1992/LoanTap-Logistic_Regression)**
+  Implemented a logistic regression model to assess customer eligibility and predict loan approval likelihood based on financial behavior.
 
 - 📊 **[JamboreeEducation-Linear_Regression](https://github.com/biplabini/JamboreeEducation-Linear_Regression)**  
-  Simple linear regression for predicting education scores based on historical performance.
+  Applied simple linear regression to predict education scores from historical performance data, aiding academic performance forecasting.
 
 - 🧮 **[Delhivery-Feature-Engineering](https://github.com/biplabini/Delhivery-Feature-Engineering)**  
   Applied feature selection and engineering on logistics delivery data to improve ML model performance.
