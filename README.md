@@ -30,17 +30,17 @@ I’m a passionate **Data Science enthusiast** with a strong academic foundation
 
 ## 🚀 Featured Projects
 
+- 🧠 **[Porter-Neural_Network_Regression](https://github.com/Biplabini-1992/Porter-Neural_Network_Regression)**  
+  Built and trained a neural network model to predict delivery time regression metrics.
+  
+- 🎯 **[Zee_Recommender_Systems](https://github.com/biplabini/Zee_Recommender_Systems)**  
+  Collaborative filtering and content-based recommender system for entertainment content.
+
 - 🔍 **[Scaler_Clustering](https://github.com/Biplabini-1992/Scaler_Clustering)**  
   Unsupervised clustering project on Scaler's data to identify company and job role profiles.
 
 - 📈 **[OLA-Ensemble-Learning](https://github.com/Biplabini-1992/OLA-Ensemble-Learning)**  
   Developed an ensemble model using decision trees, random forests, and boosting for ride-hailing data.
-
-- 🧠 **[Porter-Neural_Network_Regression](https://github.com/biplabini/Porter-Neural_Network_Regression)**  
-  Built and trained a neural network model to predict delivery time regression metrics.
-
-- 🎯 **[Zee_Recommender_Systems](https://github.com/biplabini/Zee_Recommender_Systems)**  
-  Collaborative filtering and content-based recommender system for entertainment content.
 
 - 📊 **[JamboreeEducation-Linear_Regression](https://github.com/biplabini/JamboreeEducation-Linear_Regression)**  
   Simple linear regression for predicting education scores based on historical performance.
