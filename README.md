@@ -51,7 +51,7 @@ I’m a passionate **Data Science enthusiast** with a strong academic foundation
 - 🧮 **[Delhivery-Feature-Engineering](https://github.com/Biplabini-1992/Delhivery-Feature-Engineering)**  
   Applied feature selection and engineering on logistics delivery data to improve ML model performance.
 
-- 🔬 **[Yulu-Hypothesis-Testing](https://github.com/biplabini/Yulu-Hypothesis-Testing)**  
+- 🔬 **[Yulu-Hypothesis-Testing](https://github.com/Biplabini-1992/Yulu-Hypothesis-Testing)**  
   Conducted hypothesis testing on bike-sharing data to validate business assumptions.
 
 - 📐 **[Walmart-Confidence-Interval-CLT](https://github.com/biplabini/Walmart-Confidence-Interval-CLT)**  
