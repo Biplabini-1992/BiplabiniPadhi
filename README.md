@@ -48,7 +48,7 @@ I’m a passionate **Data Science enthusiast** with a strong academic foundation
 - 📊 **[JamboreeEducation-Linear_Regression](https://github.com/Biplabini-1992/JamboreeEducation-Linear_Regression)**  
   Applied simple linear regression to predict education scores from historical performance data, aiding academic performance forecasting.
 
-- 🧮 **[Delhivery-Feature-Engineering](https://github.com/biplabini/Delhivery-Feature-Engineering)**  
+- 🧮 **[Delhivery-Feature-Engineering](https://github.com/Biplabini-1992/Delhivery-Feature-Engineering)**  
   Applied feature selection and engineering on logistics delivery data to improve ML model performance.
 
 - 🔬 **[Yulu-Hypothesis-Testing](https://github.com/biplabini/Yulu-Hypothesis-Testing)**  
