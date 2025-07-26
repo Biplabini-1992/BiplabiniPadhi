@@ -63,7 +63,7 @@ I’m a passionate **Data Science enthusiast** with a strong academic foundation
 - 🍿 **[Netflix-Data-Exploration-and-Visualisation](https://github.com/Biplabini-1992/Netflix-Data-Exploration-and-Visualisation)**  
   Performed EDA and visualization on Netflix's viewing patterns dataset.
 
-- 🌎 **[Target_Brazil_Sales_Analysis](https://github.com/biplabini/Target_Brazil_Sales_Analysis)**  
+- 🌎 **[Target_Brazil_Sales_Analysis](https://github.com/Biplabini-1992/Target_Brazil_Sales_Analysis)**  
   Sales trend analysis and insights generation from retail data.
 
 ---
