@@ -60,7 +60,7 @@ I’m a passionate **Data Science enthusiast** with a strong academic foundation
 - 📦 **[Aerofit-Descriptive-Statistics-Probability](https://github.com/Biplabini-1992/Aerofit-Descriptive-Statistics-Probability)**  
   Descriptive statistics and probability analysis on fitness brand dataset.
 
-- 🍿 **[Netflix-Data-Exploration-and-Visualisation](https://github.com/biplabini/Netflix-Data-Exploration-and-Visualisation)**  
+- 🍿 **[Netflix-Data-Exploration-and-Visualisation](https://github.com/Biplabini-1992/Netflix-Data-Exploration-and-Visualisation)**  
   Performed EDA and visualization on Netflix's viewing patterns dataset.
 
 - 🌎 **[Target_Brazil_Sales_Analysis](https://github.com/biplabini/Target_Brazil_Sales_Analysis)**  
