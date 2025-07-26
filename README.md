@@ -54,7 +54,7 @@ I’m a passionate **Data Science enthusiast** with a strong academic foundation
 - 🔬 **[Yulu-Hypothesis-Testing](https://github.com/Biplabini-1992/Yulu-Hypothesis-Testing)**  
   Conducted hypothesis testing on bike-sharing data to validate business assumptions.
 
-- 📐 **[Walmart-Confidence-Interval-CLT](https://github.com/biplabini/Walmart-Confidence-Interval-CLT)**  
+- 📐 **[Walmart-Confidence-Interval-CLT](https://github.com/Biplabini-1992/Walmart-Confidence-Interval-CLT)**  
   Demonstrated statistical concepts like confidence intervals and the Central Limit Theorem.
 
 - 📦 **[Aerofit-Descriptive-Statistics-Probability](https://github.com/biplabini/Aerofit-Descriptive-Statistics-Probability)**  
