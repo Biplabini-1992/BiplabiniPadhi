@@ -57,7 +57,7 @@ I’m a passionate **Data Science enthusiast** with a strong academic foundation
 - 📐 **[Walmart-Confidence-Interval-CLT](https://github.com/Biplabini-1992/Walmart-Confidence-Interval-CLT)**  
   Demonstrated statistical concepts like confidence intervals and the Central Limit Theorem.
 
-- 📦 **[Aerofit-Descriptive-Statistics-Probability](https://github.com/biplabini/Aerofit-Descriptive-Statistics-Probability)**  
+- 📦 **[Aerofit-Descriptive-Statistics-Probability](https://github.com/Biplabini-1992/Aerofit-Descriptive-Statistics-Probability)**  
   Descriptive statistics and probability analysis on fitness brand dataset.
 
 - 🍿 **[Netflix-Data-Exploration-and-Visualisation](https://github.com/biplabini/Netflix-Data-Exploration-and-Visualisation)**  
