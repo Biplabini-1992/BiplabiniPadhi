@@ -30,22 +30,22 @@ I’m a passionate **Data Science enthusiast** with a strong academic foundation
 
 ## 🚀 Featured Projects
 
-- 🐦 **[Twitter-Named-Entity-Recognition-System](https://github.com/Biplabini-1992/Twitter-Named-Entity-Recognition-System)**
+- 🐦 **[Twitter-Named-Entity-Recognition-System](https://github.com/Biplabini-1992/Twitter-Named-Entity-Recognition-System)**  
   Trained BiLSTM + CRF and BERT models to identify fine-grained entities (person, location, company, product, etc.) from tweets.
   
-- 🍿 **[FlipItNews-Article-Classification-Using-NLP](https://github.com/Biplabini-1992/FlipItNews-Article-Classification-Using-NLP)**
+- 🍿 **[FlipItNews-Article-Classification-Using-NLP](https://github.com/Biplabini-1992/FlipItNews-Article-Classification-Using-NLP)**  
   Implemented NLP-based news classification and topic modeling to analyze news content trends.
   
-- 🥕 **[Ninjacart_ComputerVision_Classification](https://github.com/Biplabini-1992/Ninjacart_ComputerVision_Classification)**
+- 🥕 **[Ninjacart_ComputerVision_Classification](https://github.com/Biplabini-1992/Ninjacart_ComputerVision_Classification)**  
   Built a vegetable image classifier using CNNs to automate quality inspection and classification.
 
-- 🧠 **[Porter-Neural_Network_Regression](https://github.com/Biplabini-1992/Porter-Neural_Network_Regression)**
+- 🧠 **[Porter-Neural_Network_Regression](https://github.com/Biplabini-1992/Porter-Neural_Network_Regression)**  
   Developed and trained a neural network model to predict delivery time using regression metrics, achieving accurate forecasts through deep learning techniques.
   
-- 🖥️ **[AdEase-Time-Series-Forecasting](https://github.com/Biplabini-1992/AdEase-Time-Series-Forecasting)**
+- 🖥️ **[AdEase-Time-Series-Forecasting](https://github.com/Biplabini-1992/AdEase-Time-Series-Forecasting)**  
   Forecasted Wikipedia page views using ARIMA, SARIMAX (with campaign effects), and Facebook Prophet to optimize ad placements.
   
-- 🎯 **[Zee_Recommender_System](https://github.com/Biplabini-1992/Zee_Recommender_System)**  
+- 🎯 **[Zee_Recommender_System](https://github.com/Biplabini-1992/Zee_Recommender_System)**
   Built collaborative filtering and content-based recommender systems to personalize entertainment content recommendations for users.
 
 - 🔍 **[Learner-Analytics-Clustering-Company-Insights](https://github.com/Biplabini-1992/Learner-Analytics-Clustering-Company-Insights)**  
