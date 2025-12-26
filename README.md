@@ -39,7 +39,7 @@ I’m a passionate **Data Science enthusiast** with a strong academic foundation
 - 🥕 **[Ninjacart_ComputerVision_Classification](https://github.com/Biplabini-1992/Ninjacart_ComputerVision_Classification)**
   Built a vegetable image classifier using CNNs to automate quality inspection and classification.
 
-- 🧠 **[Porter-Neural_Network_Regression](https://github.com/Biplabini-1992/Porter-Neural_Network_Regression)**  
+- 🧠 **[Porter-Neural_Network_Regression](https://github.com/Biplabini-1992/Porter-Neural_Network_Regression)**
   Developed and trained a neural network model to predict delivery time using regression metrics, achieving accurate forecasts through deep learning techniques.
   
 - 🖥️ **[AdEase-Time-Series-Forecasting](https://github.com/Biplabini-1992/AdEase-Time-Series-Forecasting)**
