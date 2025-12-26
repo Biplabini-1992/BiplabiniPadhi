@@ -45,7 +45,7 @@ I’m a passionate **Data Science enthusiast** with a strong academic foundation
 - 🖥️ **[AdEase-Time-Series-Forecasting](https://github.com/Biplabini-1992/AdEase-Time-Series-Forecasting)**  
   Forecasted Wikipedia page views using ARIMA, SARIMAX (with campaign effects), and Facebook Prophet to optimize ad placements.
   
-- 🎯 **[Zee_Recommender_System](https://github.com/Biplabini-1992/Zee_Recommender_System)**
+- 🎯 **[Zee_Recommender_System](https://github.com/Biplabini-1992/Zee_Recommender_System)**  
   Built collaborative filtering and content-based recommender systems to personalize entertainment content recommendations for users.
 
 - 🔍 **[Learner-Analytics-Clustering-Company-Insights](https://github.com/Biplabini-1992/Learner-Analytics-Clustering-Company-Insights)**  
