@@ -74,10 +74,13 @@ I'm open to **oppertunitiess, collaborations, and internships** in Data Science 
 
 📬 Connect with me:  
 📬 Connect with me:
+
 📧 Email: biplabini.padhi@gmail.com
 
 🔗 LinkedIn: linkedin.com/in/biplabini-padhi
+
 🐙 GitHub: github.com/Biplabini-1992
+
 📊 Tableau: public.tableau.com/profile/biplabini.padhi
 
 ✨ Let’s innovate, analyze, and build impactful solutions together! 🌍🚀
