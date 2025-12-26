@@ -33,7 +33,7 @@ I’m a passionate **Data Science enthusiast** with a strong academic foundation
 - 🐦 **[Twitter-Named-Entity-Recognition-System](https://github.com/Biplabini-1992/Twitter-Named-Entity-Recognition-System)**
   Trained BiLSTM + CRF and BERT models to identify fine-grained entities (person, location, company, product, etc.) from tweets.
   
-- 🍿 **FlipItNews-Article-Classification-Using-NLP](https://github.com/Biplabini-1992/FlipItNews-Article-Classification-Using-NLP)**
+- 🍿 **[FlipItNews-Article-Classification-Using-NLP](https://github.com/Biplabini-1992/FlipItNews-Article-Classification-Using-NLP)**
   Implemented NLP-based news classification and topic modeling to analyze news content trends.
   
 - 🥕 **[Ninjacart_ComputerVision_Classification](https://github.com/Biplabini-1992/Ninjacart_ComputerVision_Classification)**
